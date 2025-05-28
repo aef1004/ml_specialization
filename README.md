@@ -7,3 +7,12 @@ Week 1
 - Regression modeling
 - Cost function
 - Gradient descent
+
+Week 2
+- multiple linear regression
+- vectorization
+- gradient descent for multiple linear regression
+- feature scaling and learning rate
+- feature engineering
+- polynomial regression
+- scikit-learn

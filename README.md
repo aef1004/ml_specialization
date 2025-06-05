@@ -16,3 +16,11 @@ Week 2
 - feature engineering
 - polynomial regression
 - scikit-learn
+
+Week 3
+- classification with logistic regression
+- decision boundary
+- logistic loss function (and cost function)
+- gradient descent for logistic regression
+- regularization to reduce overfitting
+- cost function with regularization

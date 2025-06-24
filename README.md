@@ -1,7 +1,7 @@
 # Machine Learning Specialization
 Coursera Machine Learning Specialization
 
-
+## Supervised Learning
 Week 1
 - Supervised vs unsupervised learning
 - Regression modeling
@@ -24,3 +24,13 @@ Week 3
 - gradient descent for logistic regression
 - regularization to reduce overfitting
 - cost function with regularization
+
+## Advanced Learning Algorithms
+Week 4
+- neural networks intuition
+- demand prediction
+- tensorflow
+- neural network implementation "by hand"
+
+....
+- decision trees

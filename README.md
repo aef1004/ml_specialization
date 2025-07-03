@@ -9,28 +9,34 @@ Week 1
 - Gradient descent
 
 Week 2
-- multiple linear regression
-- vectorization
-- gradient descent for multiple linear regression
-- feature scaling and learning rate
-- feature engineering
-- polynomial regression
+- Multiple linear regression
+- Vectorization
+- Gradient descent for multiple linear regression
+- Feature scaling and learning rate
+- Feature engineering
+- Polynomial regression
 - scikit-learn
 
 Week 3
-- classification with logistic regression
-- decision boundary
-- logistic loss function (and cost function)
-- gradient descent for logistic regression
-- regularization to reduce overfitting
-- cost function with regularization
+- Classification with logistic regression
+- Decision boundary
+- Logistic loss function (and cost function)
+- Gradient descent for logistic regression
+- Regularization to reduce overfitting
+- Cost function with regularization
 
 ## Advanced Learning Algorithms
 Week 4
-- neural networks intuition
-- demand prediction
-- tensorflow
-- neural network implementation "by hand"
+- Neural networks intuition
+- Demand prediction
+- Tensorflow
+- Neural network implementation "by hand"
+- Vectorization
+
+Week 5
+- Neural network training
+- Activation functions
+
 
 ....
 - decision trees

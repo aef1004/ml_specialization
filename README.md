@@ -36,6 +36,10 @@ Week 4
 Week 5
 - Neural network training
 - Activation functions
+- Multiclass classification (MNIST)
+- Softmax regression model for multiclass classification
+- Adam Algorithm Intuition
+- Convolutional Neural Network
 
 
 ....

@@ -41,6 +41,15 @@ Week 5
 - Adam Algorithm Intuition
 - Convolutional Neural Network
 
+Week 6
+- Evaluating performance of model
+- Diagnosing bias and variance
+- Regularizaton and bias/variance
+- Debugging/Improving performance
+- Iterative loop of ML development
+- Data augmentation
+- Transfer learning
+- Error metrics for skewed datasets
 
 ....
 - decision trees

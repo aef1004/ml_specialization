@@ -51,5 +51,17 @@ Week 6
 - Transfer learning
 - Error metrics for skewed datasets
 
-....
-- decision trees
+Week 7
+- Decision trees
+- Purity
+- Information gain
+- One-hot encoding of categorical features
+- Continuous valued features
+- Regression Trees
+- Tree ensemble (using multiple decision trees)
+- Random forest
+- XGBoost
+- Decision Trees vs Neural networks
+
+
+

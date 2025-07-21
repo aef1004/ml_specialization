@@ -63,5 +63,11 @@ Week 7
 - XGBoost
 - Decision Trees vs Neural networks
 
-
+## Unsupervised Learning, Recommenders, Reinforcement Learning
+Week 8
+- Unsupervised learning 
+    - clustering
+    - anomaly detection
+- Recommender systems
+- Reinforcement learning
 

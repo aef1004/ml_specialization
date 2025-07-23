@@ -66,8 +66,11 @@ Week 7
 ## Unsupervised Learning, Recommenders, Reinforcement Learning
 Week 8
 - Unsupervised learning 
-    - clustering
-    - anomaly detection
+- Clustering
+- Kmeans
+- Anomaly detection
+
+...
 - Recommender systems
 - Reinforcement learning
 

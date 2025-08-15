@@ -70,7 +70,29 @@ Week 8
 - Kmeans
 - Anomaly detection
 
-...
+Week 9
 - Recommender systems
-- Reinforcement learning
+- Making recommendations
+- Collaborative filtering
+- Binary labels: favs, likes and clicks
+- Mean normalization
+- TensorFlow implementation of collaborative filtering
+- Deep learning for Content-based filtering
+- Recommending from a large cataglogue
+- Ethical use of recommender systems
+- TensorFlow implementation of content-based filtering
+- PCA
+
+Week 10
+- Return in Reinforcement Learning
+- Making decisions: policies in reinforcement learning
+- Markov Decision Process (MDP)
+- State Action Value Function
+- Bellman Equation
+- Random (stochastic) environment
+- Example of continuous state space applications
+- State Value function (DQN aka Deep Q Network)
+- Algorithm refinement: Epsilon-greedy policy
+- Algorithm refinement: Minibatch and soft updates
+- Reinforcement Learning Limitations
 
